@@ -1,0 +1,15 @@
+p{
+    color:red;
+}
+
+body{
+    background-color:deepskyblue;
+}
+.name{
+    font-size: 40px;
+    color:deeppink;
+    text-align:center;
+}
+#first{
+    color:blueviolet;
+}
